@@ -1,4 +1,4 @@
-Connect-VIServer d05nutlp0002.twcable.com
+Connect-VIServer $server
 #Define your OVF Path
 #$ovfPath = "D:\BuildTeam\OVF_Files\ArchivingVirtualAppliance-Mallard-Outlook2016.ovf"
 $ovfPath = "OVFPATH"
